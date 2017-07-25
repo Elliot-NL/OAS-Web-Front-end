@@ -1,0 +1,56 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 12-Apr-2017, 15:48:29
+    Author     : enl
+*/
+
+div{
+    width: 300px;
+    border: 25px solid orange;
+    padding: 25px;
+    font-family: verdana;
+}
+body{
+    background-color: #edfcbf
+}
+li{
+    color: #f74a4a
+}
+/* Create Tables for forms
+.wrapper {
+    width: 330px;
+    margin:0 auto;
+}
+.gameboard {
+    width: 330px;
+    height:310px;
+    border:3px solid white;
+    z-index: 1;
+}
+.gameboard div {
+    width: 100px;
+    height: 100px;
+    float: left;
+}
+.middle {
+    border: 1px solid;
+}
+.button {
+    background-color:white;
+    width: 160px;
+    margin:0 auto;
+}
+.updown {
+    border-top: 1px solid;
+    border-bottom: 1px solid;
+}
+.leftright {
+    border-left: 1px solid;
+    border-right: 1px solid;
+}*/
+
+
